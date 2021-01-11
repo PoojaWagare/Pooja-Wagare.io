@@ -1,4 +1,3 @@
-# Pooja Wagare
 ### Hii, It's Me Pooja Pramod Wagare👋
 
  Software Engineer From India
